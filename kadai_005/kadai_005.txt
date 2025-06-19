@@ -5,7 +5,7 @@ PS C:\Users\user\Desktop\git_challenge> git add hello_world.txt
 PS C:\Users\user\Desktop\git_challenge> git commit -m "hello_world.txtを追加"                    
 [main b92060a] hello_world.txtを追加
  1 file changed, 0 insertions(+), 0 deletions(-)
-PS C:\Users\user\Desktop\git_challenge> echo "こんにちわ、世界!" >> hello_world.txt
+PS C:\Users\user\Desktop\git_challenge> echo "こんにちは、世界!" >> hello_world.txt
 PS C:\Users\user\Desktop\git_challenge> git add hello_world.txt
 PS C:\Users\user\Desktop\git_challenge> git commit -m "日本語訳を追加"                            
 [main 6033e1c] 日本語訳を追加
